@@ -58,6 +58,8 @@ set(SOURCE_FILES
   tools/initial_pose_tool.cpp
   tools/selection_tool.cpp
   tools/interaction_tool.cpp
+  twist_display.cpp
+  twist_visual.cpp
   view_controllers/orbit_view_controller.cpp
   view_controllers/xy_orbit_view_controller.cpp
   view_controllers/third_person_follower_view_controller.cpp
